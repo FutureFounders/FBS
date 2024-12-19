@@ -1,7 +1,7 @@
-# FBS
-Future Business School
+# Future Business School
 
-<img src="https://github.com/FutureFounders/FBS/blob/main/logo/fbs.png" width="35%" height="35%" align="right" />
+
+<img src="https://github.com/FutureFounders/FBS/blob/main/images/fbs.png" width="35%" height="35%" align="right" />
 
 
  In today's world, with the rapid growth of technology and especially artificial intelligence, the need for nurturing future startup leaders is more pressing than ever. Many young individuals and eager entrepreneurs are keen to enter this field, but a lack of access to appropriate educational resources and practical experiences can hinder the realization of their innovative ideas. For this reason, we have decided to establish a business school specifically for startups that focuses on artificial intelligence, with the aim of preparing entrepreneurs to create value and launch successful ventures.
