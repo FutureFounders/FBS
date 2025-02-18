@@ -16,7 +16,7 @@ Ultimately, we aim to foster a vibrant and creative community of entrepreneurs w
 
 
 ## Organized By:
-> Future Founders Start-UP Studio + Herpaak 
+> Future Founders StartUP Studio + Herpaak 
 
 http://FutureFounders.github.io/
 
